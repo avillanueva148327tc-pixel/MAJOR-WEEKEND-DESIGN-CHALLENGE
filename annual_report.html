@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Annual Report | University of Mindanao</title>
+    <link rel="stylesheet" href="stylesvillanueva.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .report-feature {
+            background: var(--bs-white);
+            border-radius: var(--radius-lg);
+            padding: var(--spacing-lg);
+            box-shadow: var(--shadow-md);
+            display: flex;
+            gap: var(--spacing-lg);
+            align-items: center;
+        }
+
+        .report-visual {
+            background: var(--light);
+            padding: var(--spacing-md);
+            border-radius: var(--radius-md);
+            flex: 1;
+            text-align: center;
+        }
+
+        .report-info {
+            flex: 2;
+        }
+
+        @media (max-width: 768px) {
+            .report-feature {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <input type="checkbox" id="theme-toggle" hidden>
+    <div class="theme-toggle-wrapper">
+        <label for="theme-toggle" class="theme-btn"><i></i></label>
+    </div>
+
+    <a href="mailto:info@umindanao.edu.ph" class="help-fab">
+        <span>Ask for Help</span>
+    </a>
+
+    <div class="super-header">
+        <div class="top-bar-social">
+            <div class="container">
+                <div class="social-icons-header">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-pinterest"></i></a>
+                </div>
+                <div class="utility-links-header">
+                    <a href="#">Blackboard Learn</a>
+                    <a href="#">Student Portal</a>
+                    <a href="#">Login</a>
+                </div>
+            </div>
+        </div>
+        <div class="header-brand-area">
+            <div class="container">
+                <div class="brand-logos">
+                    <a href="index.html">
+                        <img src="SCHOOL LOGO/198a29b43bf4729dfd940e418e0d7250.jpg" alt="UM Logo">
+                    </a>
+                    <div class="iso-cert">
+                        <img src="SCHOOL LOGO/logo.avif" alt="ISO Certification" style="height: 50px;">
+                    </div>
+                </div>
+                <div class="header-info-columns">
+                    <div class="info-col">
+                        <span class="info-label">Call Us</span>
+                        <span class="info-value">+63 (082) 227 5456</span>
+                    </div>
+                    <div class="info-col">
+                        <span class="info-label">Message Us</span>
+                        <span class="info-value">Submit Inquiries</span>
+                    </div>
+                    <div class="info-col">
+                        <span class="info-label">Global Certificate</span>
+                        <span class="info-value">ISO 9001:2015</span>
+                    </div>
+                    <a href="#" class="enrollment-btn">Enrollment Procedure</a>
+                </div>
+            </div>
+        </div>
+        <div class="institutional-accent-bar"></div>
+    </div>
+
+    <header>
+        <nav class="container navbar">
+            <ul class="nav-links">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item">
+                    <a href="governance.html" class="nav-link">Governance</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="board_of_trustees.html" class="dropdown-item">Board of Trustees</a></li>
+                        <li><a href="policies.html" class="dropdown-item">Policies</a></li>
+                        <li><a href="annual_report.html" class="dropdown-item">Annual Report</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item"><a href="colleges.html" class="nav-link">Colleges</a></li>
+                <li class="nav-item"><a href="campuses.html" class="nav-link">Campuses</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero" style="padding: var(--spacing-lg) 0;">
+            <div class="container">
+                <h1>Annual Report</h1>
+                <p>A reflection of our institutional progress and transparency.</p>
+            </div>
+        </section>
+        <!-- villanueva-->
+        <section class="container">
+            <article class="report-feature">
+                <div class="report-visual">
+                    <img src="icons/report-icon.png" alt="Report Visual" style="max-width: 150px; opacity: 0.5;">
+                    <h2 style="margin-top: var(--spacing-sm);">2025</h2>
+                    <p>Academic Year</p>
+                </div>
+                <div class="report-info">
+                    <h3>2024-2025 Annual Institutional Report</h3>
+                    <p>We are proud to present our Annual Report for the academic year 2024-2025. This report
+                        encapsulates our unwavering commitment to academic excellence, innovative research, and
+                        significant community impact. It details our fiscal performance, student achievements, and the
+                        institutional milestones that define our path as a leading globally engaged university.</p>
+                    <div style="margin-top: var(--spacing-md);">
+                        <a href="governance/ANNUAL REPORT/2025-annual-report.pdf" class="btn btn-primary"
+                            style="background: var(--primary); color: white;" target="_blank">Download Full Report
+                            (PDF)</a>
+                    </div>
+                </div>
+            </article>
+        </section>
+
+        <section class="bg-light">
+            <div class="container text-center">
+                <h3>Archive</h3>
+                <p>Previous annual reports are archived and accessible for historical review.</p>
+                <p style="color: var(--bs-gray); font-style: italic;">Archives for 2020-2024 available soon.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h4>About UM</h4>
+                    <p>The University of Mindanao is a private, non-sectarian higher education institution in Davao
+                        City, Philippines.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="governance.html">Governance</a></li>
+                        <li><a href="colleges.html">Colleges</a></li>
+                        <li><a href="campuses.html">Campuses</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Us</h4>
+                    <p>Email: info@umindanao.edu.ph</p>
+                    <p>Phone: (082) 227-5456</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                &copy; 2026 University of Mindanao. All rights reserved.
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
