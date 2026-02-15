@@ -1,0 +1,1728 @@
+<div class="row">
+                <div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg navbar-dark p-0">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div id="navbarMain" class="collapse navbar-collapse">
+                            <ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+
+
+<div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg navbar-dark p-0">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div id="navbarMain" class="collapse navbar-collapse">
+                            <ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="row">
+                <div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg navbar-dark p-0">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div id="navbarMain" class="collapse navbar-collapse">
+                            <ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+<div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg navbar-dark p-0">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div id="navbarMain" class="collapse navbar-collapse">
+                            <ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+
+<nav class="navbar navbar-expand-lg navbar-dark p-0">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div id="navbarMain" class="collapse navbar-collapse">
+                            <ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+                        </div>
+                    </nav>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+
+<div id="navbarMain" class="collapse navbar-collapse">
+                            <ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+                        </div>
+
+<ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>
+<ul class="navbar-nav">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="https://umindanao.edu.ph">
+                                        Home</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Governance <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/bot/main">
+                                                Board of Trustees
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/policies/main">
+                                                Policies
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-item ">
+                                            <a href="https://umindanao.edu.ph/governance/annual-report/main">
+                                                Annual Report
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/redirect/aps" target="_BLANK" rel="noopener noreferrer">
+                                        Academics</a>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Campuses <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://umindanao.edu.ph/redirect/umbansalan" target="_BLANK" rel="noopener noreferrer">UM Bansalan</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umdigos" target="_BLANK" rel="noopener noreferrer">UM Digos</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpanabo" target="_BLANK" rel="noopener noreferrer">UM Panabo</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umpenaplata" target="_BLANK" rel="noopener noreferrer">UM Peñaplata</a></li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/umtagum" target="_BLANK" rel="noopener noreferrer">UM Tagum</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="https://umindanao.edu.ph/colleges/main">Colleges</a>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Admission <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/requirements">Requirements</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/guidelines">Registration
+                                                Guidelines</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/rac/grading-system">Grading
+                                                System</a></li>
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#!" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Enrollment Procedures
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/old">Old
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/new">Freshmen
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/transferee">Transferee
+                                                        Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/ps">Professional
+                                                        Schools Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/law">Juris
+                                                        Doctor Student</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/rac/enrollment/foreign">Foreign
+                                                        Student</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News
+                                        &amp;
+                                        Info <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class=""><a href="https://umindanao.edu.ph/info/news/home">News &amp; Events</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/events">Student Activities</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/awards/main">Accreditations
+                                                &amp; Awards</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/legion/main">Legion
+                                                of Topnotchers</a></li>
+                                        <li class=""><a href="https://umindanao.edu.ph/info/faq/main">Frequently
+                                                Asked Questions</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown ">
+                                    <a href="#" class="nav-link dropdown-toggle group" data-bs-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/internationalization">Internationalization</a>
+                                        </li>
+                                        <li class=""><a href="https://umindanao.edu.ph/services/scholarship">Scholarship</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/curricular-guidelines/retention">Curricular
+                                                Guidelines</a>
+                                        </li>
+                                        
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Student Affairs
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/osa">About
+                                                        OSA</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/services/gmc" target="_BLANK" rel="noopener noreferrer">Request Good Moral
+                                                        Certificate</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/lis" target="_BLANK" rel="noopener noreferrer">Library Services</a></li>
+                                        
+
+                                        <li class="dropdown-submenu nav-item dropdown ">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Research and Innovation
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="">
+                                                    <a href="https://umindanao.edu.ph/services/rpc">About
+                                                        Research and Innovation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/redirect/research-center" target="_BLANK">RIC Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li class=""><a href="https://umindanao.edu.ph/services/gstc">Guidance
+                                                Services</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/chs" target="_BLANK" rel="noopener noreferrer">Center for Health
+                                                Services</a></li>
+                                        
+                                        <li class="">
+                                            <a href="https://umindanao.edu.ph/services/cec">Community
+                                                Extension</a>
+                                        </li>
+                                        <li><a href="https://umindanao.edu.ph/redirect/aao" target="_BLANK" rel="noopener noreferrer">Alumni Affairs</a></li>
+                                        <li><a href="https://umindanao.edu.ph/services/sports">Sports Center</a></li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu dropdown-menu-end" role="menu">
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/roadmap">Centennial
+                                                Road Map</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://umindanao.edu.ph/sdg/main">Sustainable
+                                                Development Goals</a>
+                                        </li>
+                                        <li class="dropdown-submenu nav-item dropdown">
+                                            <a class="dropdown-item dropdown-toggle d-flex justify-content-between align-items-center" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                                Facilities
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end">
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/main">
+                                                        View Facilities</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://umindanao.edu.ph/tour/accessibility/1">
+                                                        Accessibility Maps</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://umindanao.edu.ph/redirect/careers" target="_BLANK" rel="noopener noreferrer">Careers</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                
+                            </ul>

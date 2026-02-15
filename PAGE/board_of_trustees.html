@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Board of Trustees | University of Mindanao</title>
+    <link rel="stylesheet" href="stylesvillanueva.css">
+    <style>
+        .bot-container {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-lg);
+        }
+
+        .bot-profile {
+            display: flex;
+            gap: var(--spacing-lg);
+            background: var(--bs-white);
+            padding: var(--spacing-lg);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-sm);
+            align-items: flex-start;
+            border: 1px solid var(--bs-gray-200);
+            transition: var(--transition);
+        }
+
+        .bot-profile:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateY(-2px);
+        }
+
+        .bot-img-wrapper {
+            flex-shrink: 0;
+            width: 250px;
+        }
+
+        .bot-img {
+            width: 100%;
+            border-radius: var(--radius-md);
+            border: 4px solid var(--light);
+        }
+
+        .bot-info {
+            flex: 1;
+        }
+
+        .bot-info h2 {
+            margin-top: 0;
+            color: var(--primary);
+            font-size: 1.75rem;
+            border-bottom: 2px solid var(--light);
+            padding-bottom: var(--spacing-xs);
+            margin-bottom: var(--spacing-xs);
+        }
+
+        .bot-role {
+            font-weight: 700;
+            color: var(--bs-gray-700);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.9rem;
+            margin-bottom: var(--spacing-sm);
+            display: block;
+        }
+
+        .bot-bio {
+            color: var(--bs-gray-800);
+            font-size: 1rem;
+            line-height: 1.7;
+            text-align: justify;
+        }
+
+        @media (max-width: 992px) {
+            .bot-profile {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+
+            .bot-img-wrapper {
+                width: 200px;
+                margin-bottom: var(--spacing-md);
+            }
+
+            .bot-info h2 {
+                border-bottom: none;
+            }
+
+            .bot-bio {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <input type="checkbox" id="theme-toggle" hidden>
+    <div class="theme-toggle-wrapper">
+        <label for="theme-toggle" class="theme-btn"><i></i></label>
+    </div>
+
+    <a href="mailto:info@umindanao.edu.ph" class="help-fab">
+        <span>Ask for Help</span>
+    </a>
+
+    <div class="super-header">
+        <div class="top-bar-social">
+            <div class="container">
+                <div class="social-icons-header">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-pinterest"></i></a>
+                </div>
+                <div class="utility-links-header">
+                    <a href="#">Blackboard Learn</a>
+                    <a href="#">Student Portal</a>
+                    <a href="#">Login</a>
+                </div>
+            </div>
+        </div>
+        <div class="header-brand-area">
+            <div class="container">
+                <div class="brand-logos">
+                    <a href="index.html">
+                        <img src="SCHOOL LOGO/198a29b43bf4729dfd940e418e0d7250.jpg" alt="UM Logo">
+                    </a>
+                    <div class="iso-cert">
+                        <img src="SCHOOL LOGO/logo.avif" alt="ISO Certification" style="height: 50px;">
+                    </div>
+                </div>
+                <div class="header-info-columns">
+                    <div class="info-col">
+                        <span class="info-label">Call Us</span>
+                        <span class="info-value">+63 (082) 227 5456</span>
+                    </div>
+                    <div class="info-col">
+                        <span class="info-label">Message Us</span>
+                        <span class="info-value">Submit Inquiries</span>
+                    </div>
+                    <div class="info-col">
+                        <span class="info-label">Global Certificate</span>
+                        <span class="info-value">ISO 9001:2015</span>
+                    </div>
+                    <a href="#" class="enrollment-btn">Enrollment Procedure</a>
+                </div>
+            </div>
+        </div>
+        <div class="institutional-accent-bar"></div>
+    </div>
+
+    <header>
+        <nav class="container navbar">
+            <ul class="nav-links">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item">
+                    <a href="governance.html" class="nav-link">Governance</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="board_of_trustees.html" class="dropdown-item">Board
+                                of Trustees</a></li>
+                        <li><a href="policies.html" class="dropdown-item">Policies</a>
+                        </li>
+                        <li><a href="annual_report.html" class="dropdown-item">Annual
+                                Report</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item"><a href="colleges.html" class="nav-link">Colleges</a></li>
+                <li class="nav-item"><a href="campuses.html" class="nav-link">Campuses</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero" style="padding: var(--spacing-xl) 0;">
+            <div class="container">
+                <h1>Board of Trustees</h1>
+                <p>Meet the visionary leaders committed to the University of Mindanao’s
+                    mission of transformative
+                    education and global engagement.</p>
+            </div>
+        </section>
+
+        <section class="container">
+            <div class="bot-container">
+                <!-- 1. DR. GUILLERMO P. TORRES, JR. -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/1.jpg" alt="DR. GUILLERMO P. TORRES, JR."
+                            class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Chairman / President</span>
+                        <h2>Dr. Guillermo P. Torres, Jr.</h2>
+                        <div class="bot-bio">
+                            <p>Dr. Guillermo P. Torres, Jr., Ed.D., is a respected Filipino
+                                educator, media executive,
+                                businessman, and civic leader. He currently serves as
+                                Chairman of the Board and
+                                President of several institutions, including GET Holdings,
+                                Inc., the University of
+                                Mindanao (UM), and UM Broadcasting Network.</p>
+                            <p>Dr. Torres holds a Doctor of Education in Educational
+                                Management from UM and was
+                                conferred an honorary PhD in Commercial Science by the John
+                                Dewey University Consortium.
+                                He earned his MBA from Ohio University and BSBA from De La
+                                Salle University. He is a
+                                Lieutenant Colonel in the Philippine Army Reserve and serves
+                                as President of the Davao
+                                Association of Colleges and Universities Network (DACUN).
+                            </p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 2. ATTY. EDWARD ANTHONY C. GO -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/2.jpg" alt="ATTY. EDWARD ANTHONY C. GO"
+                            class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">First Vice Chairman</span>
+                        <h2>Atty. Edward Anthony C. Go</h2>
+                        <div class="bot-bio">
+                            <p>Edward Anthony Go is a Filipino business executive born
+                                in Davao City. He obtained his
+                                Bachelor of Laws from the University of Mindanao and
+                                became a registered lawyer in 2012.
+                                He also holds a BBA from Simon Fraser University,
+                                Canada.</p>
+                            <p>Atty. Go is currently the Vice President for Operations
+                                of Mintrade Corporation and
+                                Mintrade Shipping Lines, Inc. He also serves as Managing
+                                Director of Em-eukal
+                                Philippines, Inc., bringing extensive experience across
+                                law, manufacturing, and shipping
+                                to the board.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 3. MR. EDWIN P. TORRES -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/3.jpg" alt="MR. EDWIN P. TORRES" class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Second Vice Chairman</span>
+                        <h2>Mr. Edwin P. Torres</h2>
+                        <div class="bot-bio">
+                            <p>Edwin P. Torres is a marketing professional and
+                                academic leader. He earned his BS in
+                                Business Administration, majoring in Marketing,
+                                from De La Salle University and later
+                                graduated from Philippine Christian University.
+                            </p>
+                            <p>He began his career at the University of Mindanao
+                                in 1983 and has served in various
+                                leadership roles within the marketing field,
+                                including President of the Junior
+                                Philippine Marketing Association (JPMA). He has
+                                been a member of the Board of Trustees
+                                since 1985.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 4. DR. PEDRO B. SAN JOSE -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/4.jpg" alt="DR. PEDRO B. SAN JOSE" class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Treasurer</span>
+                        <h2>Dr. Pedro B. San Jose</h2>
+                        <div class="bot-bio">
+                            <p>Mr. Pedro “Pete” San Jose is a respected educator, civic leader, and public servant. He
+                                holds a BSE from Far Eastern University and a Master of Arts from the University of
+                                Mindanao.</p>
+                            <p>He has served as a Provincial Board Member of Davao del Norte and was instrumental in
+                                establishing the country's first Provincial Scholarship Grant. He was awarded the Papal
+                                Award *Pro Ecclesia et Pontifice* by the Holy See in 2017 for his exceptional
+                                contributions to the church and community. The UM Gymnasium in Tagum is named in his
+                                honor.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 5. ATTY. JOSE ANTHONY MANUEL S. NITORREDA -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/5.jpg" alt="ATTY. JOSE ANTHONY MANUEL S. NITORREDA"
+                            class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Trustee /
+                            Corporate Secretary</span>
+                        <h2>Atty. Jose Anthony Manuel S.
+                            Nitorreda</h2>
+                        <div class="bot-bio">
+                            <p>Jose Antonio Manuel S. Nitorreda is a trained lawyer and corporate governance officer. He
+                                holds degrees in Arts, Commerce (Accounting), and Law from Ateneo de Davao University.
+                            </p>
+                            <p>He has served as Legal Counsel and Corporate Secretary for Davao Doctors Hospital and
+                                Davao Doctors College. He brings a combination of legal expertise and healthcare
+                                governance experience to his role as Corporate Secretary of the UM Board of Trustees.
+                            </p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 6. ATTY. SALVADOR MEDIALDEA -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/6.jpg" alt="ATTY. SALVADOR MEDIALDEA"
+                            class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Trustee</span>
+                        <h2>Atty. Salvador Medialdea
+                        </h2>
+                        <div class="bot-bio">
+                            <p>Salvador Medialdea is a prominent Filipino lawyer who served as the Executive Secretary
+                                under the presidency of Rodrigo Duterte (2016–2022). He previously headed the Livelihood
+                                Corporation (LIVECOR) and served as Presidential Assistant for Political Affairs.</p>
+                            <p>A native of Davao, he played a critical role in supporting national executive decisions
+                                and government operations. He joined the UM Board of Trustees in early 2024.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 7. HON. PILAR C. BRAGA -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/7.jpg" alt="HON. PILAR C. BRAGA" class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Trustee</span>
+                        <h2>Hon. Pilar C. Braga
+                        </h2>
+                        <div class="bot-bio">
+                            <p>Councilor Pilar Braga is the Chairperson of the Davao City Government's Committee on
+                                Education, Science, and Technology. She is a staunch advocate for women's participation
+                                in governance and grassroots development.</p>
+                            <p>With 16 ordinances and 149 resolutions to her name, she has significantly influenced
+                                education and cultural initiatives in Davao City. She has been a valued member of the UM
+                                Board since 2017.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 8. ATTY. JESUS MELCHOR V. QUITAIN -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/8.jpg" alt="ATTY. JESUS MELCHOR V. QUITAIN"
+                            class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Trustee</span>
+                        <h2>Atty. Jesus
+                            Melchor V.
+                            Quitain</h2>
+                        <div class="bot-bio">
+                            <p>Atty. Quitain is a seasoned lawyer and public servant who served as Chief Presidential
+                                Legal Counsel and Special Assistant to the President. He is recognized as the principal
+                                speechwriter for many of President Duterte’s major addresses.</p>
+                            <p>He earned his law degree from San Beda College and served as Dean of the College of Law
+                                at the University of Mindanao. His distinguished career includes roles as City Legal
+                                Officer, City Administrator, and Resident Ombudsman of Davao City.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 9. ATTY. LEOCADIO S. NITORREDA -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/9.jpg" alt="ATTY. LEOCADIO S. NITORREDA"
+                            class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Trustee</span>
+                        <h2>Atty.
+                            Leocadio
+                            S.
+                            Nitorreda
+                        </h2>
+                        <div class="bot-bio">
+                            <p>Leocadio Nitorreda is a seasoned corporate executive and lawyer with extensive experience
+                                in governance and compliance. He holds a degree in Business Management from Ateneo de
+                                Manila and a Bachelor of Laws from Ateneo de Davao.</p>
+                            <p>He holds board memberships in several major corporations, including USSC, NADECOR, and
+                                the JVA Group. He has been actively involved in advancing UM’s institutional governance
+                                since 2005.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 10. ATTY. JESUS DUREZA -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/10.jpg" alt="ATTY. JESUS DUREZA" class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Trustee</span>
+                        <h2>Atty.
+                            Jesus
+                            Dureza
+                        </h2>
+                        <div class="bot-bio">
+                            <p>Jesus "Jess" Dureza is a veteran lawyer, journalist, and public servant. He served as
+                                Presidential Adviser on the Peace Process and Chairman of the Mindanao Development
+                                Authority. He holds a Bachelor of Laws from Ateneo de Davao, placing 10th in the 1973
+                                Bar Exams.</p>
+                            <p>His extensive career spans journalism, peace negotiations, and various cabinet-level
+                                positions under multiple Philippine presidents. He has been a member of the UM Board
+                                since 2011.</p>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- 11. DARLENE MAGNOLIA CUSTODIO -->
+                <article class="bot-profile">
+                    <div class="bot-img-wrapper">
+                        <img src="governance/board_of_trustees.html/11.jpg" alt="DARLENE MAGNOLIA CUSTODIO"
+                            class="bot-img">
+                    </div>
+                    <div class="bot-info">
+                        <span class="bot-role">Trustee</span>
+                        <h2>Darlene
+                            Magnolia
+                            Custodio
+                        </h2>
+                        <div class="bot-bio">
+                            <p>Darlene Magnolia Antonino-Custodio is a former public servant who served as Mayor of
+                                General Santos City and Representative of South Cotabato. She earned her business degree
+                                from De La Salle University and a Master's in Culinary Arts from Le Cordon Bleu, London.
+                            </p>
+                            <p>Coming from a prominent political family, she has held key legislative roles, including
+                                House Deputy Minority Leader. She has served as an UM Trustee since 2010.</p>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h4>About UM</h4>
+                    <p>The University of Mindanao is a private, non-sectarian higher
+                        education institution in Davao
+                        City, Philippines.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="governance.html">Governance</a></li>
+                        <li><a href="colleges.html">Colleges</a></li>
+                        <li><a href="campuses.html">Campuses</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Us</h4>
+                    <p>Email: info@umindanao.edu.ph</p>
+                    <p>Phone: (082) 227-5456</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                &copy; 2026 University of Mindanao. All rights reserved.
+            </div>
+        </div>
+    </footer>
+</body>
+<!-- villanueva-->
+
+</html>
